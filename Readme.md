@@ -86,5 +86,3 @@ graph LR
     D --> E(Revisor Node)
     E --> F[Final Verified Article]
 ```
-
-<img src="RealTimeNewsAnalystAgent\RealTimeNewsAnalystAgent.png" alt="A beautiful landscape" width="400" height="200">
